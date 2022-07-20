@@ -6,6 +6,10 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
   "main": "./build/ckeditor.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sLoppi1/customeditor.git"
+  },
   "devDependencies": {
     "@ckeditor/ckeditor5-autoformat": "^34.2.0",
     "@ckeditor/ckeditor5-basic-styles": "^34.2.0",
